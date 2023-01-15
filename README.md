@@ -1,2 +1,2 @@
 # Library-management-system
-图书管理系统JavaWeb
+图书管理系统JavaWeb所用资源
